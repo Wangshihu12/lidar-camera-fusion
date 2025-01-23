@@ -1,0 +1,14 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/rosworkspace/devel/lib/python3/dist-packages",
+        "/catkin_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages",
+        "/path/to/SuperGluePretrainedNetwork"
+    ],
+    "python.analysis.extraPaths": [
+        "/rosworkspace/devel/lib/python3/dist-packages",
+        "/catkin_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages",
+        "/path/to/SuperGluePretrainedNetwork"
+    ]
+}
